@@ -1,2 +1,2 @@
-# ouo-Traffic-bot
-ouo Traffic bot with public proxies functional.
+
+Ouo traffic bot (Public proxies)
